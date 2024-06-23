@@ -140,115 +140,7 @@
 			)
 		)
 	)
-	(symbol "root_0_CRCW0402100KFKED"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Reference" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Fixed Resistor, Metal Glaze/thick Film, 0.063W, 100000ohm, 50V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0402"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ki_fp_filters" "*100k{space}Resistor*"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(symbol "root_0_CRCW0402100KFKED_1_0"
-			(polyline
-				(pts
-					(xy 7.62 0) (xy 6.604 0) (xy 6.35 -0.508) (xy 5.842 0.508) (xy 5.334 -0.508) (xy 4.826 0.508) (xy 4.318 -0.508)
-					(xy 3.81 0.508) (xy 3.556 0) (xy 2.54 0)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 2.54)
-				(name "1"
-					(effects
-						(font
-							(size 0 0)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 0 0)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 10.16 0 180)
-				(length 2.54)
-				(name "2"
-					(effects
-						(font
-							(size 0 0)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 0 0)
-						)
-					)
-				)
-			)
-		)
-	)
-	(symbol "root_0_CRCW04024K99FKED"
+	(symbol "root_0_ERJ-3EKF4991V"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -304,7 +196,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "root_0_CRCW04024K99FKED_1_0"
+		(symbol "root_0_ERJ-3EKF4991V_1_0"
 			(polyline
 				(pts
 					(xy 7.62 0) (xy 6.604 0) (xy 6.35 -0.508) (xy 5.842 0.508) (xy 5.334 -0.508) (xy 4.826 0.508) (xy 4.318 -0.508)
@@ -709,6 +601,114 @@
 					(effects
 						(font
 							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "root_0_RMCF0603FT100K"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fixed Resistor, Metal Glaze/thick Film, 0.063W, 100000ohm, 50V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0402"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*100k{space}Resistor*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "root_0_RMCF0603FT100K_1_0"
+			(polyline
+				(pts
+					(xy 7.62 0) (xy 6.604 0) (xy 6.35 -0.508) (xy 5.842 0.508) (xy 5.334 -0.508) (xy 4.826 0.508) (xy 4.318 -0.508)
+					(xy 3.81 0.508) (xy 3.556 0) (xy 2.54 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 0 0 0)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 0 180)
+				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 0 0)
 						)
 					)
 				)
@@ -1263,115 +1263,7 @@
 			)
 		)
 	)
-	(symbol "root_1_CRCW0402100KFKED"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Reference" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Fixed Resistor, Metal Glaze/thick Film, 0.063W, 100000ohm, 50V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0402"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ki_fp_filters" "*100k{space}Resistor*"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(symbol "root_1_CRCW0402100KFKED_1_0"
-			(polyline
-				(pts
-					(xy 0 7.62) (xy 0 6.604) (xy 0.508 6.35) (xy -0.508 5.842) (xy 0.508 5.334) (xy -0.508 4.826) (xy 0.508 4.318)
-					(xy -0.508 3.81) (xy 0 3.556) (xy 0 2.54)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(pin passive line
-				(at 0 0 90)
-				(length 2.54)
-				(name "1"
-					(effects
-						(font
-							(size 0 0)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 0 0)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 10.16 270)
-				(length 2.54)
-				(name "2"
-					(effects
-						(font
-							(size 0 0)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 0 0)
-						)
-					)
-				)
-			)
-		)
-	)
-	(symbol "root_1_GRM1555C1E5R1CA01D"
+	(symbol "root_1_CC0603CRNPO9BN5R1"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1427,7 +1319,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "root_1_GRM1555C1E5R1CA01D_1_0"
+		(symbol "root_1_CC0603CRNPO9BN5R1_1_0"
 			(polyline
 				(pts
 					(xy -2.032 4.318) (xy 2.032 4.318)
@@ -1514,7 +1406,7 @@
 			)
 		)
 	)
-	(symbol "root_1_GRM155R71A104KA01D"
+	(symbol "root_1_CC0603KRX7R7BB104"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1552,7 +1444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ceramic Capacitor, Multilayer, Ceramic, 10V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0402"
+		(property "Description" "Ceramic Capacitor"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1570,7 +1462,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "root_1_GRM155R71A104KA01D_1_0"
+		(symbol "root_1_CC0603KRX7R7BB104_1_0"
 			(polyline
 				(pts
 					(xy -2.032 4.318) (xy 2.032 4.318)
@@ -1657,7 +1549,7 @@
 			)
 		)
 	)
-	(symbol "root_1_GRM155R71C104KA88D"
+	(symbol "root_1_CRCW060324K9FKEA"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1695,7 +1587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ceramic Capacitor, Multilayer, Ceramic, 16V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0402"
+		(property "Description" "Fixed Resistor, Metal Glaze/thick Film, 0.1W, 24900ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1704,7 +1596,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "*Cbias_100nF*"
+		(property "ki_fp_filters" "*R_Fbb_24.9k*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1713,46 +1605,11 @@
 				(hide yes)
 			)
 		)
-		(symbol "root_1_GRM155R71C104KA88D_1_0"
+		(symbol "root_1_CRCW060324K9FKEA_1_0"
 			(polyline
 				(pts
-					(xy -2.032 4.318) (xy 2.032 4.318)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 2.54) (xy 0 3.302)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 5.08) (xy 0 4.318)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.032 3.302) (xy -2.032 3.302)
+					(xy 0 7.62) (xy 0 6.604) (xy 0.508 6.35) (xy -0.508 5.842) (xy 0.508 5.334) (xy -0.508 4.826) (xy 0.508 4.318)
+					(xy -0.508 3.81) (xy 0 3.556) (xy 0 2.54)
 				)
 				(stroke
 					(width 0.254)
@@ -1781,7 +1638,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 7.62 270)
+				(at 0 10.16 270)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -2086,7 +1943,7 @@
 			)
 		)
 	)
-	(symbol "root_1_RC0603FR-0724K9L"
+	(symbol "root_1_RMCF0603FT100K"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2124,7 +1981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Fixed Resistor, Metal Glaze/thick Film, 0.1W, 24900ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603"
+		(property "Description" "Fixed Resistor, Metal Glaze/thick Film, 0.063W, 100000ohm, 50V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0402"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2133,7 +1990,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "*R_Fbb_24.9k*"
+		(property "ki_fp_filters" "*100k{space}Resistor*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2142,7 +1999,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "root_1_RC0603FR-0724K9L_1_0"
+		(symbol "root_1_RMCF0603FT100K_1_0"
 			(polyline
 				(pts
 					(xy 0 7.62) (xy 0 6.604) (xy 0.508 6.35) (xy -0.508 5.842) (xy 0.508 5.334) (xy -0.508 4.826) (xy 0.508 4.318)
@@ -2356,6 +2213,114 @@
 					(effects
 						(font
 							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "root_3_CRCW060350R0FKEA"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fixed Resistor, Metal Glaze/thick Film, 0.1W, 50ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*50_Resistor*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "root_3_CRCW060350R0FKEA_1_0"
+			(polyline
+				(pts
+					(xy 0 -7.62) (xy 0 -6.604) (xy -0.508 -6.35) (xy 0.508 -5.842) (xy -0.508 -5.334) (xy 0.508 -4.826)
+					(xy -0.508 -4.318) (xy 0.508 -3.81) (xy 0 -3.556) (xy 0 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 0 0 270)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -10.16 90)
+				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 0 0)
 						)
 					)
 				)
